@@ -1,6 +1,4 @@
-# 💫 About Me:
 Hey! Hope everything's going well for you:)<br><br>Tech Enthusiast | Aspiring Software Engineer | Open Source Contributor<br><br>I’m a Computer Science Engineering student at Chitkara University (Graduating in 2027) with a strong interest in software development and problem-solving. Along the way, I’ve also built a solid foundation in Data Science from IIT Madras. I love working with Java, Python, C++, and web technologies like ReactJS, Node.js, Express, and MongoDB to create practical and scalable solutions. <br><br>I've worked on various projects, from building dashboards to management systems, while also gaining hands-on experience in backend development and databases. My time as a Pharmacy Inventory & Billing Associate helped me develop strong analytical and organizational skills, and running a YouTube channel has sharpened my ability to break down complex topics in an engaging way. <br><br>Currently exploring backend development, open-source contributions, and scalable software solutions. I enjoy collaborating on meaningful projects, learning new things, and constantly improving. <br><br>Always open to interesting conversations and new opportunities—let’s connect!
-
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
 
 
